@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shafique7pip
-- 👀 I’m interested in Web Scraping & Data Extraction, Machine Learning, Data Analysis and Visualization, and Chatbot Development (all python right :P)
+- 👀 I’m interested in Android programming :)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on all sorts of things that interoperate with Python and lil AI now 'cuz of ChatGPT, because why not?!
 - 📫 How to reach me, email me >>> shafiqued17z@gmail.com
